@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "399578334883",
+    "firebase_url": "https://homeautom-84328-default-rtdb.firebaseio.com",
+    "project_id": "homeautom-84328",
+    "storage_bucket": "homeautom-84328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399578334883:android:9c7eec9903e208111ce116",
+        "android_client_info": {
+          "package_name": "com.example.smarthomemajor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlW-vVtwK8agRe-vAAEjgxq36tcbTYYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
